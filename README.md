@@ -1,5 +1,5 @@
-# food_ordering_website
-This is an Online Food Ordering Website Application built using HTML, CSS, JavaScript, JSP files and My SQL.
+# food_ordering_website using HTML, CSS, JavaScript, JSP files and My SQL.
+
 ![PIC 1](https://user-images.githubusercontent.com/101622707/185023797-bcc4be72-0eaa-435b-b36b-7e11e8b2c634.png)
 ![pic 2](https://user-images.githubusercontent.com/101622707/185023955-335082ee-c940-499b-8d28-f46127206825.png)
 ![pic 3](https://user-images.githubusercontent.com/101622707/185024007-0917b755-50ae-4908-b573-9a30a45d8c01.png)
